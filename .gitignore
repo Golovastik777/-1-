@@ -25,4 +25,5 @@ yarn-error.log*
 dist/
 build/
 
-.md
+*.md
+!README.md
