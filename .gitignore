@@ -24,3 +24,5 @@ yarn-error.log*
 # Сборка
 dist/
 build/
+
+.md
